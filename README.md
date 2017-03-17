@@ -61,10 +61,30 @@ Conditions - Enemy
 
 
 
-Week 7:
+Week 7 & 8:
 
+One of the most important aspect for our game was represented by the data that we want to store into a database.
 
+Before deisinging a physical database we took into consideration a logical design. The logical design is more conceptual and abstract than the physical design. In the logical design, you look at the logical relationships among the objects. In the physical design, you look at the most effective way of storing and retrieving the objects.
 
+Logical Deisgn:
+-> Entity design without regard to a relational database managemnet system
+-> Logical design the same, regardless of the DBMS
+-> Limitations of freatures of a particular DBMS should not be considered
 
+Physical Design:
+-> logical design adapted to a particular DBMS
+-> the design can change slightly to fit into the limitations of the DBMS or to take advantage of the DBMS specific features.
+  *DBMS = Database Managamenet System
+  
+  <poza>
+  
+  We had a look over how an entity should be used:
 
-Week 8:
+ <POZA>
+ 
+ E-R Diagram:
+<poza>
+
+Connections between the database and the program.
+<poza>
