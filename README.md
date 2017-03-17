@@ -63,28 +63,29 @@ Conditions - Enemy
 
 Week 7 & 8:
 
-One of the most important aspect for our game was represented by the data that we want to store into a database.
+It was of utmost importance to understand the data that we wanted to store into the database and define the process of handling it inside the database.
 
-Before deisinging a physical database we took into consideration a logical design. The logical design is more conceptual and abstract than the physical design. In the logical design, you look at the logical relationships among the objects. In the physical design, you look at the most effective way of storing and retrieving the objects.
+The first step in designing a functional database was to define the logical relationships between the objects used in our game. It was interesting to work on the logical aspect of the database as it was highly conceptual and abstract. I have identified ways to efficiently store and retrieve objects and this kept the game running smoothly. Below are some of the features that have been implemented in our designs:
 
-Logical Deisgn:
--> Entity design without regard to a relational database managemnet system
--> Logical design the same, regardless of the DBMS
--> Limitations of freatures of a particular DBMS should not be considered
+Logical Design:
+-> An entity design that does not use a relational based database as a management system
+-> Uniform logical design that does not rely on a DBMS
 
 Physical Design:
--> logical design adapted to a particular DBMS
+-> A logical design adapted to a specific DBMS
 -> the design can change slightly to fit into the limitations of the DBMS or to take advantage of the DBMS specific features.
+  
   *DBMS = Database Managamenet System
   
   poza
   
-  We had a look over how an entity should be used:
+ Understanding how an entity should be used:
 
  POZA
  
  E-R Diagram:
 poza
 
-Connections between the database and the program.
+Defining the relationships between the database and the game itself.
+
 poza
