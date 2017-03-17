@@ -77,14 +77,14 @@ Physical Design:
 -> the design can change slightly to fit into the limitations of the DBMS or to take advantage of the DBMS specific features.
   *DBMS = Database Managamenet System
   
-  <poza>
+  poza
   
   We had a look over how an entity should be used:
 
- <POZA>
+ POZA
  
  E-R Diagram:
-<poza>
+poza
 
 Connections between the database and the program.
-<poza>
+poza
